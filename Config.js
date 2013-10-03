@@ -1,5 +1,5 @@
 var banlookup_config = {
-// Configuration file for McMyAdmin BanLookup extension by Geo from #McMyAdmin IRC.
+// Configuration file for McMyAdmin BanLookup extension by isitgeorge.com.
 // Version 1.0
 // Changes will require you to restart McMyAdmin and refresh the UI.
 // Make sure the LoadExtensions line inside McMyAdmin includes the Ban Lookup extension.
